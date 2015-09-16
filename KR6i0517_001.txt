@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:21:29.600417
+#+DATE: 2015-08-30 20:21:30.999073
 #+TITLE: 佛說決定總持經
 #+PROPERTY: CBETA_ID T17n0811
 #+PROPERTY: ID KR6i0517
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 811
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0517_T_000-0770a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0517_T_001-0770a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.811¶
-
- 《佛說決定總持經》¶
+No. 811¶
+《佛說決定總持經》¶
 ¶
 西晉月氏三藏竺法護譯¶
 
