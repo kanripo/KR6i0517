@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 9:49
+#+DATE: 2016-06-08 9:50
 #+TITLE: 佛說決定總持經
 #+PROPERTY: CBETA_ID T17n0811
 #+PROPERTY: ID KR6i0517
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 811
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0517_T_000-0770a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0517_T_001-0770a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
@@ -70,7 +70,7 @@ No. 811¶
 有一菩薩名無怯行，致得總持，從無數劫成¶
 就法忍，逮無從生無有顛倒，辯才無量入一¶
 切智，正慧道力分別隨順，度無極行，曉無思¶
-議總持門品，普見一切眾生志性根無所趣，¶
+議總持門品，普見一切眾生志性根无所趣，¶
 應可化者而為說法不失其本。即從座起偏¶
 露右肩，右膝著地，叉手白佛：「惟，天中天！此族¶
 姓子等類十人出家修道，夙夜精進七歲不¶
